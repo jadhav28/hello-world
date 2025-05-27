@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+Currently pursuing an MS in Data Science at Boston University, I am a Computer Science and Mathematics graduate from the University of Alberta. I'm driven by a passion for leveraging cutting-edge technologies to solve real-world problems, with expertise in machine learning, software engineering, and database development. 
